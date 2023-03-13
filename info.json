@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "FlatDact",
+    "manufacturer": "Allora",
+    "url": "",
+    "maintainer": "Allora",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0xCAF0",
+        "device_version": "0.0.1"
+    }
+}
